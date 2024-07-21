@@ -1,6 +1,6 @@
 import React from "react"
 import "./App.css"
-import FaqCard from "./components/FaqCard"
+import FaqCard from "./components/FaqCard/FaqCard"
 
 function App() {
   return (
